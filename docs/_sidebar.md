@@ -1,0 +1,7 @@
+* [Home](/)
+* [MediaWiki](mediawiki/README.md)
+    * [MW Database](mediawiki/mw_database.md)
+    * [MW Upgrade](mediawiki/upgrade/README.md)
+        * [Upgrade database](mediawiki/upgrade/upgrade_database.md)
+        * [Upgrade Elastic Beanstalk](mediawiki/upgrade/upgrade_elastic_beanstalk.md)
+* [API4 Database](api4_database/README.md)
